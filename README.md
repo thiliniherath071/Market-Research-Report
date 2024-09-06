@@ -1,5 +1,5 @@
 # Market-Research-Report
-Coursework Overview
+# Coursework Overview
 
 This course has a 30%-weighted coursework component which will require you to act as a market research agency and produce a market research proposal responding to a client's brief, as if being delivered to the client. 
 You will not be expected to conduct any primary research. The report should cover the following areas.
